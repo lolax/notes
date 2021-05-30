@@ -1,0 +1,15 @@
+.class-based-selector {
+  color: red;
+  border: 1px solid black;
+}
+
+#id-based-selector {
+  color: blue;
+  background-color: transparent;
+}
+
+/* tag based selector, corresponds with <header></header> */
+header {
+  position: sticky;
+  z-index: 5;
+}

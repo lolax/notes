@@ -1,0 +1,8 @@
+HTML: the standard markup language for creating web pages
+What is HTML?
+    - stands for Hyper Text Markup Language
+    - is the standard markup language for creating Web pages
+    - describes the structure of a web page
+    - consists of a series of elements
+    - elements tell the browser how to display the content
+    - elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
